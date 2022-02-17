@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+===================================
+### Ha's notes ###
+It takes me around 5 hours on this assessment. I have not done it 100%.
+
+I have finished showing question text when navigating using left,right arrow.
+
+I have not done the answer part, and structuring data to make a proper request. 
+
+My idea to implement answer part is making an answer component, and conditionally render answer based on answer type property. The user's answer will be save into global context. In global context, the user's answers will be stored in an array, and kept updated based on user's input. 
+
